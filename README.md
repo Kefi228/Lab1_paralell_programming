@@ -1,0 +1,2 @@
+# Lab1_paralell_programming
+Анализ эффективности
